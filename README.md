@@ -1,0 +1,1 @@
+# AutoHotKey-XMP-hack
